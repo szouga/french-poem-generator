@@ -1,3 +1,10 @@
 body {
-  background-color: aquamarine;
+  background-color: salmon;
+  text-align: center;
+}
+
+a {
+  text-decoration: underline;
+  color: purple;
+  font-weight: 600;
 }
